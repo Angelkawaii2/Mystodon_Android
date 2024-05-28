@@ -4,7 +4,7 @@ A modified version of Mastodon that supports ignoring SSL error and CA verificat
 
 一个魔改版Mastodon客户端，支持忽略 SSL 错误和 CA 验证。
 
-![./2.jpg](./2.jpg)
+<img src="./2.jpg" width="300px">
 
 ### Usage | 使用方法:
 
